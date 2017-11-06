@@ -1,0 +1,1 @@
+insert into officer (username, password) values ("user", "pass")
